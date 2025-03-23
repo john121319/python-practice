@@ -14,11 +14,10 @@ This repository contains various Python scripts and projects covering:
 ## 📂 Repository Structure
 ```
 📦 python-practice
- ┣ 📂 algorithms
- ┣ 📂 data_structures
+ ┣ 📂 Basics-exercise
+ ┣ 📂 EDA
  ┣ 📂 machine_learning
  ┣ 📂 automation_scripts
- ┣ 📂 web_development
  ┣ 📜 README.md
 ```
 
