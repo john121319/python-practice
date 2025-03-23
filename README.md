@@ -41,7 +41,7 @@ If you want to explore or contribute, follow these steps:
 Feel free to fork this repository, explore the code, and submit pull requests if you have any improvements or additional challenges to share! 😊
 
 ## 📬 Contact
-📧 Email: [yohannes.sch.ca@gmail.com](mailto:johniece2008@gmail.com)  
+📧 Email: [johniece2008@gmail.com](mailto:johniece2008@gmail.com)  
 🔗 LinkedIn: [Yohannes Alelign Biresaw](https://www.linkedin.com/in/yohannes-alelign-biresaw-b55054174)
 
 ---
